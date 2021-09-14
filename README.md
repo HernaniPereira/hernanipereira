@@ -6,7 +6,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/hernanipereira?style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHerne000)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+[![Linkedin: hernani](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
 
 <!--
 **HernaniPereira/hernanipereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
