@@ -6,7 +6,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/hernanipereira?style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHerne000)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **HernaniPereira/hernanipereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
