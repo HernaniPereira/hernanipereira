@@ -8,6 +8,25 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHerne000)
 [![Linkedin: Hernani](https://img.shields.io/badge/-hernani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hernanipereira/)](https://www.linkedin.com/in/hernanipereira/)
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Kotlin", "Java"],
+    askMeAbout: ["app dev"],
+    technologies: {
+        mobileApp: {
+            native: ["Android Development", "IOS Development"]
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase"]
+    },
+    currentFocus: "Mobile App Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 <!--
 **HernaniPereira/hernanipereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
