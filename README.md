@@ -21,7 +21,7 @@ const herne = {
             native: ["Android Development", "IOS Development"]
         },
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase"]
+        misc: ["Firebase, Redux, JavaScript"]
     },
     currentFocus: "Mobile App Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
